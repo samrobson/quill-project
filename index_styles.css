@@ -1,0 +1,36 @@
+#ttl {
+    font-family: port-lligat-slab;
+    padding-top: .5em;
+    padding-bottom: .5em;
+    font-size: 3em;
+    background-color: beige;
+    padding-left: 10px;
+    text-align: center;
+}
+
+#cmp, #cmp-blue {
+    color: white;
+    background-color: black;
+    font-size: 2em;
+    font-family: chunk;
+    text-align: center;
+    margin: 0;
+}
+
+#cmp-blue {
+    color: dodgerblue;
+    background-color: white;
+}
+
+#sub {
+    text-align: center;
+    font-size: .6em;
+    color: black;
+    padding-top: 10px;
+}
+
+p {
+    font-family: alegreya;
+    font-size: 1.2em;
+    text-align: justify;
+}
